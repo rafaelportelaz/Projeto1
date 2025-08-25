@@ -3,7 +3,7 @@
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ NProjeto1 - Concluído ✅🚀
+	  🚀✅ Projeto1 - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
