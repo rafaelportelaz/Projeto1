@@ -85,7 +85,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://br.linkedin.com/in/rafael-portela">
-Rafael Porteça</a>
+Rafael Portela</a>
  <br />
  
 [![Gmail Badge]()
